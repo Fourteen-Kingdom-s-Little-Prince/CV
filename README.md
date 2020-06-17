@@ -48,3 +48,10 @@ Paper Link: https://arxiv.org/pdf/1504.08083.pdf
 - https://www.cnblogs.com/wanghui-garcia/p/11101733.html
 
 # Faster R-CNN
+
+Paper Link https://arxiv.org/pdf/1506.01497.pdf
+
+### Related Introduction
+- https://zhuanlan.zhihu.com/p/32404424
+- https://github.com/chenyuntc/simple-faster-rcnn-pytorch 
+
