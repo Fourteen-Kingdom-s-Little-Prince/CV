@@ -53,5 +53,6 @@ Paper Link https://arxiv.org/pdf/1506.01497.pdf
 
 ### Related Introduction
 - https://zhuanlan.zhihu.com/p/32404424
-- https://github.com/chenyuntc/simple-faster-rcnn-pytorch 
+- https://zhuanlan.zhihu.com/p/31426458
+- https://github.com/chenyuntc/simple-faster-rcnn-pytorch
 
