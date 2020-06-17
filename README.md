@@ -41,5 +41,8 @@ Paper Link: https://arxiv.org/pdf/1311.2524.pdf
 
 # Fast R-CNN
 
+Paper Link: https://arxiv.org/pdf/1504.08083.pdf
+
 ### Related Introduction
 - https://towardsdatascience.com/part-2-fast-r-cnn-object-detection-7303e1988464
+- https://www.cnblogs.com/wanghui-garcia/p/11101733.html
